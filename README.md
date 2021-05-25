@@ -1,3 +1,5 @@
+![introViewFlutter](https://user-images.githubusercontent.com/69710990/119492602-1ee12800-bd14-11eb-9b00-ea5aab163345.png)
+
 # This is a simple intro screen app in which i used the introViewFlutter package
 
 A new Flutter project.
