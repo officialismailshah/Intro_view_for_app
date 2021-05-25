@@ -1,4 +1,4 @@
-# log_in_with_firebase
+# This is a simple intro screen app in which i used the introViewFlutter package
 
 A new Flutter project.
 
